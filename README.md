@@ -1,5 +1,7 @@
 # ctroy-code-analysis
 
+[Distributed via PyPI!](https://pypi.org/project/ctroy-code-analysis/0.1.1/)
+
 An MCP server that provides six code review tools for use with Claude Code
 (or any MCP client). Each reviewer reads a file from disk, pairs its contents
 with a structured review prompt, and returns the bundle for the LLM to
